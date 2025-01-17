@@ -4,6 +4,7 @@ public class cal{
     }
     public static int addition (int val, int val2){
         int value = val + val2;
+        int va = val - val2;
         return value;
 
     }
