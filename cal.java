@@ -3,8 +3,9 @@ public class cal{
         System.out.println("hey");
     }
     public static int addition (int val, int val2){
-        int value = val;
-        return value+val2;
+        int value = val + val2;
+        return value;
+
     }
     //hello there this is divyanshu
     //this is the best working of world
