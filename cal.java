@@ -3,6 +3,7 @@ public class cal{
         System.out.println("hey");
     }
     public static int addition (int val, int val2){
+        int value = 0;
         return val+val2;
     }
     //hello there this is divyanshu
